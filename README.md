@@ -1,2 +1,2 @@
 # HR
-HR API that can user register and upload his resum 
+HR API that can user register and upload his resume
